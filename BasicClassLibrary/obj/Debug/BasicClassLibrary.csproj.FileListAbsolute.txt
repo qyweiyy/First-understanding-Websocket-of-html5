@@ -1,0 +1,7 @@
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\bin\Debug\BasicClassLibrary.dll
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\bin\Debug\BasicClassLibrary.pdb
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\obj\Debug\BasicClassLibrary.csproj.CoreCompileInputs.cache
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\obj\Debug\BasicClassLibrary.dll
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\obj\Debug\BasicClassLibrary.pdb
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\bin\Debug\BasicClassLibrary.dll.CodeAnalysisLog.xml
+E:\360安全浏览器下载\WebSocketSample-master\BasicClassLibrary\bin\Debug\BasicClassLibrary.dll.lastcodeanalysissucceeded
